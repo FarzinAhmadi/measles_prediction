@@ -1,0 +1,15 @@
+{
+    "created": "2026-01-29T20:08:56.280922",
+    "description": "US county-level SCI pairs. Each row represents a county-to-county pair. Counties are denoted by their 5-digit FIPS code.",
+    "format": "CSV",
+    "download_url": "https://data.humdata.org/dataset/e9988552-74e4-4ff4-943f-c782ac8bca87/resource/97dc352f-c9c5-47d6-a6ef-88709e14006c/download/us_counties.zip",
+    "id": "97dc352f-c9c5-47d6-a6ef-88709e14006c",
+    "last_modified": "2026-01-29T20:08:55.627152",
+    "metadata_modified": "2026-02-04T21:09:24.223714",
+    "microdata": false,
+    "dataset_id": "e9988552-74e4-4ff4-943f-c782ac8bca87",
+    "resource_type": "file.upload",
+    "name": "us_counties.zip",
+    "mimetype": "application/zip",
+    "size": "59.0M"
+}
